@@ -1,0 +1,24 @@
+C:\Users\Bilal\source\repos\Login forme\Login forme\bin\Release\Login forme.exe.config
+C:\Users\Bilal\source\repos\Login forme\Login forme\bin\Release\Login forme.exe
+C:\Users\Bilal\source\repos\Login forme\Login forme\bin\Release\Login forme.pdb
+C:\Users\Bilal\source\repos\Login forme\Login forme\bin\Release\EntityFramework.dll
+C:\Users\Bilal\source\repos\Login forme\Login forme\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Bilal\source\repos\Login forme\Login forme\bin\Release\EntityFramework.xml
+C:\Users\Bilal\source\repos\Login forme\Login forme\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login forme.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.DodajTemu.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.frmKomentar.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.frmTemaOptions.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.Migrations.CreateMoreModels.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.Migrations.TemaUpdated.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.SviKorisnici.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.Login.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.MDIParent.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.Migrations.CreateUser.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.Properties.Resources.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.Registracija.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login_forme.Teme.resources
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login forme.csproj.GenerateResource.cache
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login forme.csproj.CopyComplete
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login forme.exe
+C:\Users\Bilal\source\repos\Login forme\Login forme\obj\Release\Login forme.pdb
